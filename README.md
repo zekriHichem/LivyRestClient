@@ -68,7 +68,12 @@ Constructor From Map
 Constructor From Map 
 
 ## TODO List: 
-
+ - [ ] Add Tests
  - [ ] Add more parameter to createSession method
  - [ ] Add more function like getAllSession , getAllStatement,... see [HERE](http://livy.incubator.apache.org./docs/latest/rest-api.html)
  
+ ## Credit 
+
+Credit to team C4E LIPN. :muscle::muscle:
+
+Made with love by Sidi Mohamed Hicham Zekri.	:heart:	:heart:	:heart:
